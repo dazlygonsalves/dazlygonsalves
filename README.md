@@ -1,4 +1,4 @@
-<h1 align="center">Hello�, my name is Dazly Gonsalves.</h1>
+<h1 align="center">Hello, my name is Dazly Gonsalves.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazlygonsalves&label=Profile%20Visotors&color=e63946&style=flat" alt="dazlygonsalves" /> </p>
