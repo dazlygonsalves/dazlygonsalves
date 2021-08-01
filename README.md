@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dazly Gonsalves</h1>
+<h1 align="center">Hello�, my name is Dazly Gonsalves.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazlygonsalves&label=Profile%20Visotors&color=e63946&style=flat" alt="dazlygonsalves" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, Laravel,Flutter**
+- 🌱 I’m currently learning **React, Angular, Laravel and Flutter**
 
 - 💬 Ask me about **PHP, React, Java, C, Web Dev**
 
