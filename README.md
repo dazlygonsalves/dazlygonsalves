@@ -17,7 +17,7 @@
 <a href="https://fb.com/dazlygonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dazlygonsalves" height="30" width="40" /></a>
 <a href="https://instagram.com/dazly11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dazly11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dazlygonsalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dazlygonsalves" height="30" width="40" /></a>
-<a href="https://discord.gg/DAZLY#4716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DAZLY#4716" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/316426500402315274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DAZLY#4716" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
