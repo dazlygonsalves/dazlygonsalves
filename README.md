@@ -1,5 +1,4 @@
 <h1 align="center">Hello, my name is Dazly Gonsalves.</h1>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dazlygonsalves" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dazlygonsalves?trk=profile-badge">Dazly Gonsalves</a></div>
          
 <h3 align="center">I am a passionate computer science student with strong communication and coding abilities. I am a self-taught developer that is constantly eager to learn new things and improve my abilities.</h3>
 
@@ -28,5 +27,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dazlygonsalves&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dazlygonsalves" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=dazlygonsalves&show_icons=true&theme=tokyonight&locale=en" alt="dazlygonsalves" /></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
