@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazlygonsalves&label=Profile%20Visotors&color=e63946&style=flat" alt="dazlygonsalves" /> </p>
 
-- 🌱 I’m currently learning **React, Angular, Laravel and Flutter**
+- 🌱 I’m currently learning **React, Laravel and Flutter**
 
 - 💬 Ask me about **PHP, React, Java, C and Web Development**
 
