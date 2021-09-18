@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Laravel and Flutter**
 
-- 💬 Ask me about **PHP, React, Java, C and Web Development**
+- 💬 Ask me about **PHP, ReactJS, Java, C and Web Development**
 
 - 📫 How to reach me **dazlygonsalves@gmail.com**
 
