@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazlygonsalves&label=Profile%20Visotors&color=b5e48c&style=flat" alt="dazlygonsalves" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **PHP, React, Java, C, Web Dev**
-
 - 📫 How to reach me **dazlygonsalves@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
